@@ -1,4 +1,4 @@
-from prog.utils import find_and_group_sources, visualize_source
+from autofiz.utils import find_and_group_sources, visualize_source
 
 
 def run(current_file):
