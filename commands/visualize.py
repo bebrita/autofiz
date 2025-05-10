@@ -1,4 +1,4 @@
-from ..utils import visualize_fits, intetn_fits
+from autofiz.utils import visualize_fits, intetn_fits
 
 
 def run(current_file):
