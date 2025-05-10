@@ -1,6 +1,6 @@
 from astropy.io import fits
 import os
-from prog.utils import crop_fits
+from autofiz.utils import crop_fits
 
 
 def run(current_file):
