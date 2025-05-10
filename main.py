@@ -1,4 +1,4 @@
-from prog.commands import visualize, crop, find_sources, subtract
+from autofiz.commands import visualize, crop, find_sources, subtract
 import os
 
 
