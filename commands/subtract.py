@@ -1,6 +1,6 @@
 import os
 
-from prog.utils import calculate_fwhm_for_sources, subtract_objects_with_psf, visualize_fits
+from autofiz.utils import calculate_fwhm_for_sources, subtract_objects_with_psf, visualize_fits
 
 
 def run(current_file, sources):
